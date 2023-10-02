@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
 #Realice un programa que permita registrar estudiantes y sus respectivas notas. Se pueden modificar notas  y se calcula la nota final
-
 # estudiante: nota 1, nota 2, nota 3. Nombre
 import os
 import time
@@ -43,4 +40,3 @@ while (opcion!=5):
         registrar()
     elif opcion==3:
         mostrar()
->>>>>>> 8adfeaa (Original)
